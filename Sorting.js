@@ -7,7 +7,7 @@ function setup() {
   }
   print(toSort);
   
-  //branch test
+  //branch tests
 }
 
 
