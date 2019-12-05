@@ -32,7 +32,7 @@ function bubbleSort(arr, i, j) {
     col='green'; 
     fil = 'green';
    }
-   //bubblej++;
+   //bubblej++; test and stuff
    return arr;
 }
 
